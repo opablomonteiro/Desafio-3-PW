@@ -1,52 +1,99 @@
-import React from 'react'
-import {View, StyleSheet, Image, Text, TouchableOpacity} from 'react-native'
-import {toUpperFirst} from '../util'
+import React, {Component} from 'react'
+import {StyleSheet, Text, View, FlatList, Image, SafeAreaView, Button} from 'react-native'
 
-const detalheClasse = props => {
-    const {classes, onPressItem} = props
+export default class classe extends Component{
+
+  constructor(props){
+    super(props)
+    this.state = {
+        data: []
+    }
+  }
+
+  carregar = () =>{
+    try{
+      fetch("http://demo1340780.mockable.io/pwClasse")
+      .then(res => res.json())
+      .then(res => {
+        this.setState({
+         data: res.results
+        })
+    })
+    }catch (error) {
+      console.error(error)
+    }
+  }
+
+  componentDidMount(){
+    this.carregar();
+  }
+
+  
+
+  render(){
     
     return(
-        <TouchableOpacity onPress={() => {
-            onPressItemDetails(data)
-        }} >
-            <View>
-                <Image source = {{uri: data.pictureRaca.large}} style={cardImage}/>
-                <Text style={cardText}>{data.raca}</Text>
-                <Text style={cardText}>{data.descricaoRaca}</Text>
-            </View>
-        </TouchableOpacity>
-    )
+        <SafeAreaView>
+      <View style={styles.container}>
+         <FlatList
+           data={this.state.data}
+           renderItem={({item}) =>  (
+             <View style={styles.line}>
+                 <Image source = {{uri: item.pictureClass.large}} style={styles.avatar}/>
+
+                 <View style={styles.info}>
+                   <Text style={styles.classe}>{item.classe}</Text>
+                   <Text style={styles.info}>Raça: {item.raca}</Text>
+                   <Text style={styles.info}>Tipo de Ataque: {item.tipoDeAtaque}</Text>
+                   <Text style={styles.info}>Sexo: {item.sexo}</Text>
+                   <Text style={styles.info}>Vantagens: {item.vantagens}</Text>
+                   <Text style={styles.info}>Desvantagens: {item.desvantagens}</Text>
+                   <Text>&nbsp;</Text>
+                   
+                   <Text>&nbsp;</Text>
+                 </View>
+             </View>
+           )}
+           keyExtractor={item => item.classe}
+
+         />     
+       </View>
+       </SafeAreaView>
+      
+     )
+   }
 
 }
 
 const styles = StyleSheet.create({
-    container:{
-        marginTop: 10
-    },
-    cardText:{
-        fontSize: 16,
-        padding: 10
-    },
-    card:{
-        backgroundColor: '#fff',
-        marginBottom: 10,
-        marginLeft: '2%',
-        marginRight: '2%',
-        width: '98%',
-        shadowColor: '#000',
-        shadowOpacity: 1,
-        shadowOffset:{
-            width: 3,
-            height: 3
-        }
-    },
-    cardImage:{
-        height: 300
-
-    }
+  container:{
+     marginTop: 10,
+     marginLeft: 10,
+     marginBottom: 10,
+     marginRight: 10,
+     backgroundColor: "#FFF",
+     borderTopWidth: 0,
+     borderBottomWidth: 0
+   },
+   avatar:{
+     width: 80,
+     height: 80,
+     borderRadius: 50,
+     marginRight: 10,
+     alignSelf: "center"
+   },
+   line: {
+     flexDirection: "row",
+     borderBottomColor: "#ccc",
+     borderBottomWidth: 3
+   },
+   info: {
+     flexDirection: "column",
+     justifyContent: "flex-start",
+     width: 230    
+   },
+   classe: {
+     fontSize: 18,
+     fontWeight: "bold"
+   }
 })
-
-export default detalheClasse
-
-
-

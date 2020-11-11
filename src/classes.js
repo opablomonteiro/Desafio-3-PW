@@ -1,7 +1,10 @@
-import React, {Component} from 'react'
-import {StyleSheet, Text, View, FlatList, Image, SafeAreaView, Button} from 'react-native'
+import {Component} from 'react'
+import {StyleSheet, Text, View, FlatList, Image, SafeAreaView, Button, TouchableOpacity} from 'react-native'
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import * as React from 'react';
 
-export default class classe extends Component{
+class classe extends Component{
 
   constructor(props){
     super(props)
@@ -23,6 +26,8 @@ export default class classe extends Component{
       console.error(error)
     }
   }
+  
+ 
 
   componentDidMount(){
     this.carregar();
@@ -34,7 +39,7 @@ export default class classe extends Component{
     
     return(
         <SafeAreaView>
-      <View style={styles.container}>
+       <View style={styles.container}>
          <FlatList
            data={this.state.data}
            renderItem={({item}) =>  (
@@ -49,7 +54,12 @@ export default class classe extends Component{
                    <Text style={styles.info}>Vantagens: {item.vantagens}</Text>
                    <Text style={styles.info}>Desvantagens: {item.desvantagens}</Text>
                    <Text>&nbsp;</Text>
-                   
+                    <Button
+                      title="Imagem e Descrição"
+                      onPress={() =>
+                        {this.props.navigation.navigate('Imagem e Descrição'), escolhaClasse = item.classe, escolhaDescricao = item.descricaoClasse, escolhaImagem = item.pictureClass.large}
+                      }
+                    />
                    <Text>&nbsp;</Text>
                  </View>
              </View>
@@ -63,6 +73,39 @@ export default class classe extends Component{
      )
    }
 
+}
+
+var escolhaClasse;
+var escolhaDescricao;
+var escolhaImagem;
+
+const Stack = createStackNavigator();
+
+export default function tela() {
+  return (
+    
+      <Stack.Navigator initialRouteName="Classes">
+        <Stack.Screen name="Classes" component={classe} />
+        <Stack.Screen name="Imagem e Descrição" component={detalheClasse} />
+      </Stack.Navigator>
+    
+  );
+}
+
+
+function detalheClasse({route, navigation}) {
+  
+   return (
+    <View style={styles.card}>
+      
+      
+      <Image source = {{uri: escolhaImagem}} style={styles.cardImage}/>
+      <Text style={styles.cardText}>{escolhaClasse}</Text>
+      <Text style={styles.cardText}>{escolhaDescricao}</Text>
+      
+
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({
@@ -95,5 +138,26 @@ const styles = StyleSheet.create({
    classe: {
      fontSize: 18,
      fontWeight: "bold"
-   }
+   },
+    cardText:{
+        fontSize: 16,
+        padding: 10,
+    },
+    card:{
+        backgroundColor: '#fff',
+        marginTop: 5,
+        marginLeft: '2%',
+        marginRight: '2%',
+        width: '98%',
+        shadowColor: '#000',
+        shadowOpacity: 1,
+        shadowOffset:{
+            width: 3,
+            height: 3
+        }
+    },
+    cardImage:{
+        height: 300
+
+    }
 })

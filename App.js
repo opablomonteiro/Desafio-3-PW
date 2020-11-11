@@ -5,7 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import home from './src/home'
 import raca from './src/raca'
 import classes from './src/classes'
-
+import teste from './src/detalheClasse'
 function HomeScreen({ navigation }) {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
