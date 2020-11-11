@@ -1,0 +1,33 @@
+--- Material do Professor ---
+http://www.desafiosdeti.com.br/sem-categoria/reactnative-criando-uma-lista-de-contato/
+
+https://github.com/totemarcal/listaDeContatoReactNative
+
+https://renatogroffe.medium.com/mockable-io-criando-rapidamente-mocks-de-apis-rest-para-testes-b0f54032be3b
+
+https://www.mockable.io/
+
+Os conteúdo das API RESTs estão em seus respectivo txt neste projeto. Foram mockadas no mockable.io no email "sparknex239@gmail.com"
+
+--- Material pesquisado ---
+https://www.youtube.com/watch?v=YRuLZ6VAeMI&ab_channel=CanalGeekDev
+
+https://www.youtube.com/watch?v=0VfzgFZt-AI&t=129s&ab_channel=LirsTechTips
+
+https://www.youtube.com/watch?v=tf06JVPHdkY&ab_channel=LirsTechTips
+
+https://www.youtube.com/watch?v=uNVqBsZHyqU&t=608s&ab_channel=LirsTechTips
+
+https://reactnavigation.org/docs/drawer-based-navigation/
+
+https://reactnavigation.org/docs/navigating/
+
+https://reactnavigation.org/docs/nesting-navigators/#navigating-to-a-screen-in-a-nested-navigator
+
+https://snack.expo.io/?platform=android&name=Nesting%20navigators%20%7C%20React%20Navigation&dependencies=%40react-native-community%2Fmasked-view%40*%2C%40react-navigation%2Fbottom-tabs%40%5E5.8.0%2C%40react-navigation%2Fdrawer%40%5E5.9.0%2C%40react-navigation%2Fmaterial-bottom-tabs%40%5E5.2.16%2C%40react-navigation%2Fmaterial-top-tabs%40%5E5.2.16%2C%40react-navigation%2Fnative%40%5E5.7.3%2C%40react-navigation%2Fstack%40%5E5.9.0%2Creact-native-paper%40%5E4.0.1%2Creact-native-reanimated%40*%2Creact-native-safe-area-context%40*%2Creact-native-screens%40*%2Creact-native-tab-view%40%5E2.15.1&sourceUrl=https%3A%2F%2Freactnavigation.org%2Fexamples%2F5.x%2Fnest-navigators.js
+
+-Extra:
+
+https://medium.com/@ecavalcanti/react-native-consumindo-a-api-da-marvel-c444e0bc1c8a
+
+https://github.com/ecavalcanti/RNMarvel

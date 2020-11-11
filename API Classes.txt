@@ -1,6 +1,5 @@
 {"results":[
-    
-    {
+{
         "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
         
         "raca":"Selvagem",
@@ -23,7 +22,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_barbaro.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
     
     {
@@ -49,7 +48,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_feiticeira.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
     
     {
@@ -75,7 +74,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_guerreiro.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
 
     {
@@ -101,7 +100,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mago.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -127,7 +126,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_atiradora.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -153,7 +152,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_arqueiro.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
 
     {
@@ -179,7 +178,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_sacerdote.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -205,7 +204,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_paladino.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -231,7 +230,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mercenario.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
 
     {
@@ -257,7 +256,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_espiritualista.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -283,7 +282,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_arcano.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
 
     {
@@ -309,7 +308,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mistico.png"},
     
-        "nat":"BR"
+        "nat": "PT"
     },
 
     {
@@ -335,7 +334,7 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_retalhador.png"},
     
-        "nat":"BR"
+        "nat": "BR"
     },
 
     {
@@ -361,10 +360,8 @@
 
         "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_tormentador.png"},
     
-        "nat":"BR"
-    },
-
-       
+        "nat": "PT"
+    }
     ],
     
     
