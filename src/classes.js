@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import * as React from 'react';
 
-class classe extends Component{
+ class classe extends Component{
 
   constructor(props){
     super(props)
@@ -54,12 +54,12 @@ class classe extends Component{
                    <Text style={styles.info}>Vantagens: {item.vantagens}</Text>
                    <Text style={styles.info}>Desvantagens: {item.desvantagens}</Text>
                    <Text>&nbsp;</Text>
-                    <Button
+                     <Button
                       title="Imagem e Descrição"
                       onPress={() =>
                         {this.props.navigation.navigate('Imagem e Descrição'), escolhaClasse = item.classe, escolhaDescricao = item.descricaoClasse, escolhaImagem = item.pictureClass.large}
                       }
-                    />
+                    /> 
                    <Text>&nbsp;</Text>
                  </View>
              </View>
@@ -95,16 +95,29 @@ export default function tela() {
 
 function detalheClasse({route, navigation}) {
   
+  var correr = [escolhaClasse]
    return (
-    <View style={styles.card}>
-      
-      
-      <Image source = {{uri: escolhaImagem}} style={styles.cardImage}/>
-      <Text style={styles.cardText}>{escolhaClasse}</Text>
-      <Text style={styles.cardText}>{escolhaDescricao}</Text>
-      
+    
 
-    </View>
+    <SafeAreaView>
+      <View style={styles.container2}>
+        <FlatList
+            data= {correr}
+            renderItem={() =>  (
+                
+                <TouchableOpacity style={styles.card}>
+                <Image source = {{uri: escolhaImagem}} style={styles.cardImage}/>
+                <Text style={styles.cardText}>{escolhaClasse}</Text>
+                <Text style={styles.cardText}>{escolhaDescricao}</Text>
+                </TouchableOpacity>
+
+
+            )}
+            keyExtractor={data => data.escolhaClasse}
+
+        />     
+      </View>
+    </SafeAreaView>
   );
 }
 
@@ -139,25 +152,30 @@ const styles = StyleSheet.create({
      fontSize: 18,
      fontWeight: "bold"
    },
-    cardText:{
-        fontSize: 16,
-        padding: 10,
-    },
-    card:{
-        backgroundColor: '#fff',
-        marginTop: 5,
-        marginLeft: '2%',
-        marginRight: '2%',
-        width: '98%',
-        shadowColor: '#000',
-        shadowOpacity: 1,
-        shadowOffset:{
-            width: 3,
-            height: 3
-        }
-    },
-    cardImage:{
-        height: 300
+   container2:{
+    marginTop: 10,
+    marginBottom: 5
+  },
+  cardText:{
+    fontSize: 16,
+    padding: 10
+  },
+  card:{
+    backgroundColor: '#fff',
+    marginBottom: 10,
+    marginTop: 5,
+    marginLeft: '2%',
+    marginRight: '2%',
+    width: '98%',
+    shadowColor: '#000',
+    shadowOpacity: 1,
+    shadowOffset:{
+        width: 3,
+        height: 3
+  }
+},
+cardImage:{
+    height: 700
 
-    }
+}
 })

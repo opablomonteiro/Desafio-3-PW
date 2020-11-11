@@ -6,7 +6,9 @@ export default class home extends Component {
 render(){
   return(
     <View>
+      
       <Image style={styles.logo} source = {{uri: 'https://perfectworld.uol.com.br/img/personagens/characters.png'}}/>
+      
       <Text style={styles.titulo}>Conheca as Raças e Classes do Perfect World</Text>
       
     </View>
@@ -23,7 +25,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   logo:{
-    width: "80%",
+    width: '99%',
     height: 400,
     marginRight: 15,
     marginLeft: 15,

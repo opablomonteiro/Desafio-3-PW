@@ -64,7 +64,8 @@ export default class raca extends PureComponent{
 
 const styles = StyleSheet.create({
     container:{
-        marginTop: 10
+        marginTop: 10,
+        marginBottom: 100
     },
     cardText:{
         fontSize: 16,
