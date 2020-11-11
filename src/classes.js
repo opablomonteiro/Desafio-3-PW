@@ -39,7 +39,9 @@ import * as React from 'react';
     
     return(
         <SafeAreaView>
-       <View style={styles.container}>
+        <Text>OBS.: O Stack Navigator bloqueou a rolagem do FlatList na Web mas no Android funciona normalmente. NÃO ENTENDI !!!</Text>
+        <View style={styles.container}>
+       
          <FlatList
            data={this.state.data}
            renderItem={({item}) =>  (
@@ -100,8 +102,11 @@ function detalheClasse({route, navigation}) {
     
 
     <SafeAreaView>
+    <Text>OBS.: O Stack Navigator bloqueou a rolagem do FlatList na Web mas no Android funciona normalmente. NÃO ENTENDI !!!</Text>  
       <View style={styles.container2}>
+      
         <FlatList
+            
             data= {correr}
             renderItem={() =>  (
                 
@@ -109,6 +114,7 @@ function detalheClasse({route, navigation}) {
                 <Image source = {{uri: escolhaImagem}} style={styles.cardImage}/>
                 <Text style={styles.cardText}>{escolhaClasse}</Text>
                 <Text style={styles.cardText}>{escolhaDescricao}</Text>
+                
                 </TouchableOpacity>
 
 
@@ -125,7 +131,7 @@ const styles = StyleSheet.create({
   container:{
      marginTop: 10,
      marginLeft: 10,
-     marginBottom: 10,
+     marginBottom: 110,
      marginRight: 10,
      backgroundColor: "#FFF",
      borderTopWidth: 0,
@@ -154,7 +160,7 @@ const styles = StyleSheet.create({
    },
    container2:{
     marginTop: 10,
-    marginBottom: 5
+    marginBottom: 110
   },
   cardText:{
     fontSize: 16,
