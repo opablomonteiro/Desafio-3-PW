@@ -1,0 +1,373 @@
+{"results":[
+    
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Selvagem",
+
+        "descricaoRaca":"A vida em Pan Gu evoluiu, dando origem a novas criaturas. Entre elas, há uma raça feroz conhecida como os Selvagens, nascidos de animais selvagens, como raposas e tigres. Enquanto os machos mantiveram sua natureza animal bárbara, as fêmeas evoluíram e se tornaram grandes usuárias de magia. As relações entre Humanos e Selvagens eram delicadas, e muitas fêmeas Selvagens gostavam de seduzir jovens humanos talentosos. Os machos Selvagens também desenvolveram a tendência de tentar dominar fisicamente Humanos mais fracos. Isso levou a muitas mortes e pequenas batalhas entre Humanos e Selvagens, assim como a um grande número de romances trágicos. O amor e o ódio entre Humanos e Selvagens era tanto que chegou a afetar a política, como quando os Alados emboscaram os Humanos na Batalha da Fonte da Vida, e os Selvagens, que eram normalmente neutros, subitamente atacaram a terra sagrada dos Alados, forçando-os a recuar e mudando o rumo da guerra.",
+
+        "classe":"Bárbaro",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino",
+
+        "descricaoClasse":"Bárbaros são guerreiros formidáveis, de força e agilidade dignas de seus ancestrais. Conseguem canalizar sua ferocidade e transformá-la em poder de batalha. Podem enfrentar uma ampla quantidade de inimigos e ainda sair vitoriosos sem nenhum tipo de ajuda. Também conseguem assumir a forma de um tigre para aumentar sua defesa ou obter mais velocidade ao atravessar grandes territórios. Apesar de usarem uma variedade menor de armas, os Bárbaros possuem habilidades especiais que aumentam seu poder de combate, melhorando sua força ou sua energia. Os Bárbaros também podem se especializar tanto em causar a maior quantidade de dano possível, como também em aumentar sua defesa, segurando os monstros e protegendo o restante do grupo.",
+
+        "vantagens":"Muito HP; Alta defesa física; Alta velocidade em forma animal.",
+
+        "desvantagens":"Baixa velocidade de ataque; Baixa defesa mágica; Baixa velocidade em forma humana.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_selvagem_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_barbaro.png"},
+    
+        "nat":"BR"
+    },
+    
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Selvagem",
+
+        "descricaoRaca":"A vida em Pan Gu evoluiu, dando origem a novas criaturas. Entre elas, há uma raça feroz conhecida como os Selvagens, nascidos de animais selvagens, como raposas e tigres. Enquanto os machos mantiveram sua natureza animal bárbara, as fêmeas evoluíram e se tornaram grandes usuárias de magia. As relações entre Humanos e Selvagens eram delicadas, e muitas fêmeas Selvagens gostavam de seduzir jovens humanos talentosos. Os machos Selvagens também desenvolveram a tendência de tentar dominar fisicamente Humanos mais fracos. Isso levou a muitas mortes e pequenas batalhas entre Humanos e Selvagens, assim como a um grande número de romances trágicos. O amor e o ódio entre Humanos e Selvagens era tanto que chegou a afetar a política, como quando os Alados emboscaram os Humanos na Batalha da Fonte da Vida, e os Selvagens, que eram normalmente neutros, subitamente atacaram a terra sagrada dos Alados, forçando-os a recuar e mudando o rumo da guerra.",
+
+        "classe":"Feiticeira",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Feminino",
+
+        "descricaoClasse":"As Feiticeiras apenas conseguiram a igualdade perante os Bárbaros quando os enfrentaram em batalha. Para a surpresa dos machos da época, estas mortíferas fêmeas dominavam incríveis poderes ligados à natureza. Após o confronto, os anciões foram obrigados a retirar as restrições impostas sobre elas. Com o devido respeito conquistado, continuaram o estudo das artes mágicas, sempre aperfeiçoando seus feitiços e encantamentos para atingir o máximo de perfeição. Seu contato frequente com as energias da terra facilitou sua aproximação com a fauna de Pan Gu, permitindo que elas invoquem criaturas da natureza para lutar ao seu lado durante os conflitos. Dentro do grupo, as Feiticeiras preferem agir minando a resistência adversária, seja lançando seus ataques venenosos à distância ou usando a ajuda dos animais da floresta para atacar seus inimigos. Assim como os Bárbaros, estas mulheres também podem mudar sua forma humanoide, transformando-se em uma raposa para ganhar bônus de defesa e velocidade.",
+
+        "vantagens":"Muito MP; Alta defesa mágica; Alta defesa física (quando em forma de raposa); Pode usar monstros para atacar seus inimigos.",
+
+        "desvantagens":"Pouco HP; Dano físico baixo em forma humana.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_selvagem_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_feiticeira.png"},
+    
+        "nat":"BR"
+    },
+    
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Humano",
+
+        "descricaoRaca":"Os humanos compartilham a essência de Pan Gu com os deuses. O destino determinou que os humanos e os deuses ficariam nesse estado de dependência e hostilidade mútuas. Há muito tempo, almas poderosas foram para o Mundo dos Alados, enquanto as almas fracas ficaram para trás, sofrendo com a fome e a devastação. Eventualmente, as almas se tornaram poderosas e resistentes o bastante para ganhar suas próprias formas físicas. Esta é a raça que agora conhecemos como humana. Após o Desastre do Mar Sangrento, somente os mais fortes foram escolhidos pelos deuses para viver no Perfect World. Com seu talento para inovação e criatividade, além de uma metodologia engenhosa e inescrupulosa, os humanos logo dominaram o Perfect World novamente. Cinco capitais gigantes foram construídas quase ao mesmo tempo, simbolizando a autoridade dos humanos. Elas são conhecidas como as cinco cidades imperiais.",
+
+        "classe":"Guerreiro",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Especialistas no combate corpo a corpo, estes Guerreiros representam a base para qualquer grupo de aventureiros. São famosos por sua força e resistência durante os combates. Geralmente possuem um equilíbrio entre suas características de força, defesa e destreza, podendo assim utilizar armaduras pesadas e manusear uma maior variedade de armas. Suas múltiplas qualidades possibilitam o desempenho de diversas funções no decorrer de um conflito. Eles podem ocupar a linha de frente para impedir o avanço adversário, desenvolver a destreza para agir como suporte ou até mesmo aprender algumas habilidades mágicas para ganhar velocidade, elevar a defesa mágica e física de todos da equipe. Independente de seu papel, os guerreiros provam seu valor ao enfrentar com coragem os perigos de Perfect World.",
+
+        "vantagens":"Melhor classe para atordoar os inimigos; Classe balanceada e versátil; Boa velocidade de ataque; Alta defesa física e HP.",
+
+        "desvantagens":"Baixa defesa mágica; Não causa dano mágico; Não possui uma especialização.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_humano_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_guerreiro.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Humano",
+
+        "descricaoRaca":"Os humanos compartilham a essência de Pan Gu com os deuses. O destino determinou que os humanos e os deuses ficariam nesse estado de dependência e hostilidade mútuas. Há muito tempo, almas poderosas foram para o Mundo dos Alados, enquanto as almas fracas ficaram para trás, sofrendo com a fome e a devastação. Eventualmente, as almas se tornaram poderosas e resistentes o bastante para ganhar suas próprias formas físicas. Esta é a raça que agora conhecemos como humana. Após o Desastre do Mar Sangrento, somente os mais fortes foram escolhidos pelos deuses para viver no Perfect World. Com seu talento para inovação e criatividade, além de uma metodologia engenhosa e inescrupulosa, os humanos logo dominaram o Perfect World novamente. Cinco capitais gigantes foram construídas quase ao mesmo tempo, simbolizando a autoridade dos humanos. Elas são conhecidas como as cinco cidades imperiais.",
+
+        "classe":"Mago",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Magos são mestres nas artes arcanas. Conhecidos por sua determinação na busca por novos conhecimentos arcanos, estes estudiosos são extremamente curiosos e nunca desistem de desvendar os mistérios do mundo, por mais poderosos que já tenham se tornado. Conseguem conjurar feitiços de diversos elementos e podem causar grande quantidade de dano em combate com suas magias. Suas habilidades lhe garantem um papel importante dentro do grupo. Eles podem tanto conjurar encantamentos ofensivos em um único oponente quanto devastar legiões inteiras com poderosos ataques de área. Alguns representantes desta classe escolhem focar sua evolução em sua inteligência para obter feitiços ainda mais poderosos e aumentar de maneira considerável sua defesa contra ataques mágicos. Outros, que seguem caminhos não ortodoxos, sacrificam sua proteção mágica para melhorar sua resistência contra ataques físicos.",
+
+        "vantagens":"Alto ataque mágico; Alta defesa mágica; Muito MP; Evolui rapidamente.",
+
+        "desvantagens":"Pouco HP; Baixa defesa física; Alto consumo de MP; Baixa mobilidade.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_humano_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mago.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Humano",
+
+        "descricaoRaca":"Os humanos compartilham a essência de Pan Gu com os deuses. O destino determinou que os humanos e os deuses ficariam nesse estado de dependência e hostilidade mútuas. Há muito tempo, almas poderosas foram para o Mundo dos Alados, enquanto as almas fracas ficaram para trás, sofrendo com a fome e a devastação. Eventualmente, as almas se tornaram poderosas e resistentes o bastante para ganhar suas próprias formas físicas. Esta é a raça que agora conhecemos como humana. Após o Desastre do Mar Sangrento, somente os mais fortes foram escolhidos pelos deuses para viver no Perfect World. Com seu talento para inovação e criatividade, além de uma metodologia engenhosa e inescrupulosa, os humanos logo dominaram o Perfect World novamente. Cinco capitais gigantes foram construídas quase ao mesmo tempo, simbolizando a autoridade dos humanos. Elas são conhecidas como as cinco cidades imperiais.",
+
+        "classe":"Atiradora",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Feminino",
+
+        "descricaoClasse":"As Atiradoras pertencem a um grupo de elite chamado Tecnocracia Ígnea, que foi fundado por Matschreck, um especialista em tecnologia do Mundo Primitivo. Armadas com canhões carregados com a mistura de uma substância rara e ingredientes extraídos de monstros, as Atiradoras são capazes de desferir ataques que são extremamente letais à longa e à curta distância. Seguindo antigas fórmulas alquímicas, elas ainda conseguem imbuir alguns disparos com a fervente magia de fogo, garantindo assim que seus ataques trespassem eventuais resistências físicas. E por saberem como certas criaturas são traiçoeiramente ligeiras, as Atirados ainda são capazes de preparar armadilhas para prender temporariamente seus oponentes. Dessa maneira, eles se tornam alvos fáceis para ela e seu grupo.",
+
+        "vantagens":"Não depende de munições para os ataques; Altas taxas de Crítico, Evasão e Acerto; Ignora penalidade de dano ao atacar em curta distância; Alta mobilidade; Capacidade de causar dano de fogo.",
+
+        "desvantagens":"Armadilhas só podem ser instaladas na posição atual; Armadilhas podem chamar a atenção de monstros; Baixa Defesa; Pouco controle de área",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_humano_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_atiradora.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Alado",
+
+        "descricaoRaca":"Esta raça remonta à Era Dourada, quando os deuses e os homens viviam juntos em harmonia. Quando os deuses ascenderam aos céus pela primeira vez, a humanidade os observou, admirada. Os deuses concederam generosamente os seus favores para a humanidade. Antigamente, os deuses e os homens festejavam juntos. Após muitos anos de amizade e prosperidade, nasceu uma nova geração composta por híbridos de deuses e mortais. A essas crianças, os deuses deram asas e o dom do voo. A primeira geração nascida de mães humanas era muito ágil. Eles também possuíam excelentes habilidades como arqueiros. Aqueles que nasceram de mães divinas tinham mais talento para a magia. Eles eram especialmente habilidosos com magias de suporte e auras mágicas. E assim, surgiram as duas classes dos alados, os Arqueiros e Sacerdotes.",
+
+        "classe":"Arqueiro",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"A precisão extraordinária dos Arqueiros, sua disciplina exemplar, assim como o respeito às tradições milenares de seus ancestrais, garantem grande prestígio à classe na sociedade dos Alados. Eles sempre são reverenciados por sua coragem e honra no campo de batalha, não somente por seus compatriotas, como também pelos demais habitantes de Pan Gu. Sua habilidade em manejar o arco e a flecha deve-se à sua devoção ao aprendizado dessa arte. Sua aptidão em aprender os caminhos mágicos possibilitou que eles transformassem sua arma em algo ainda mais mortal. Eles ainda podem enfeitiçar sua munição antes de cada disparo. Assim, os Arqueiros são capazes de lançar suas setas imbuídas com encantamentos elementais ou com poderosos venenos. Num grupo, preferem agir como atacantes de suporte, aproveitando a longa distância para ferir o adversário sem correr tanto perigo.",
+
+        "vantagens":"Melhor atacante à distância; Boa precisão e esquiva; Alta taxa de acerto crítico; Causam dano físico e mágico; Voam desde o nível 1.",
+
+        "desvantagens":"Pouco HP; Baixa defesa física, Dano baixo quando em combates de curta distância.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_alado_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_arqueiro.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Alado",
+
+        "descricaoRaca":"Esta raça remonta à Era Dourada, quando os deuses e os homens viviam juntos em harmonia. Quando os deuses ascenderam aos céus pela primeira vez, a humanidade os observou, admirada. Os deuses concederam generosamente os seus favores para a humanidade. Antigamente, os deuses e os homens festejavam juntos. Após muitos anos de amizade e prosperidade, nasceu uma nova geração composta por híbridos de deuses e mortais. A essas crianças, os deuses deram asas e o dom do voo. A primeira geração nascida de mães humanas era muito ágil. Eles também possuíam excelentes habilidades como arqueiros. Aqueles que nasceram de mães divinas tinham mais talento para a magia. Eles eram especialmente habilidosos com magias de suporte e auras mágicas. E assim, surgiram as duas classes dos alados, os Arqueiros e Sacerdotes.",
+
+        "classe":"Sacerdote",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Sacerdotes Alados são curandeiros naturais. Preferem tratar das feridas causadas pela guerra com os Sem-Almas e atuar como um valoroso reforço nos grupos no qual atuam, ao invés de trazer mais destruição sobre o mundo conhecido. Eles preferem se manter distantes da linha de frente para utilizar seus encantamentos de auxílio com mais tranquilidade. Os Sacerdotes usam feitiços capazes de restaurar os pontos de vida dos combatentes, aumentar seus atributos de defesa ou incapacitar os adversários com diferentes maldições. Eles são gentis e amáveis com todas as raças, não poupando esforços em ajudá-las no que for preciso. Sua mera presença já é capaz de amenizar as aflições dos seres ao seu redor. Os Sacerdotes, apesar de suas qualidades e de sua aparência serena, sabem se defender muito bem. Podem atacar de longe usando ataques físicos ou mágicos, sendo responsáveis por minar as defesas do adversário. São ainda especialistas em ataques com o elemento Metal, e podem piorar a velocidade, defesa ou dano dos seus adversários.",
+
+        "vantagens":"Muito MP; Alta defesa mágica; Possuem as melhores magias de cura; Podem ser defensivos ou ofensivos.",
+
+        "desvantagens":"Pouco HP; Baixa mobilidade; Atrai atenção dos monstros quando utiliza magias de cura.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_alado_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_sacerdote.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Alado",
+
+        "descricaoRaca":"Esta raça remonta à Era Dourada, quando os deuses e os homens viviam juntos em harmonia. Quando os deuses ascenderam aos céus pela primeira vez, a humanidade os observou, admirada. Os deuses concederam generosamente os seus favores para a humanidade. Antigamente, os deuses e os homens festejavam juntos. Após muitos anos de amizade e prosperidade, nasceu uma nova geração composta por híbridos de deuses e mortais. A essas crianças, os deuses deram asas e o dom do voo. A primeira geração nascida de mães humanas era muito ágil. Eles também possuíam excelentes habilidades como arqueiros. Aqueles que nasceram de mães divinas tinham mais talento para a magia. Eles eram especialmente habilidosos com magias de suporte e auras mágicas. E assim, surgiram as duas classes dos alados, os Arqueiros e Sacerdotes.",
+
+        "classe":"Paladino",
+
+        "tipoDeAtaque":"Físico e Mágico",
+
+        "sexo":"Masculino",
+
+        "descricaoClasse":"Em vez de virarem as costas para as divindades conforme elas eram esquecidas pelos mortais, os Paladinos preferiram dar as costas para o restante do mundo. Assim, esse grupo optou por compartilhar do isolamento do Vazio Sem Fim ao lado das Divindades Caídas às quais prometeram continuar idolatrando. Contudo, levou muitos milênios para que os Paladinos se dessem conta de que estavam servindo às forças demoníacas. De volta ao mundo mortal, eles juraram que fariam de tudo para impedir que as criaturas das trevas continuassem se espalhando e corrompendo almas. E para isso, utilizam o que aprenderam no Vazio Sem Fim para combinar magias elementais em suas espadas e escudos, o que garante a eles uma alta gama de poder e de resistência.",
+
+        "vantagens":"Pode alternar entre dano mágico e físico; Alta versatilidade em combate; Alto dano individual; Muita capacidade de sobrevivência.",
+
+        "desvantagens":"Pouco controle de área; Baixo dano em área.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_alado_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_paladino.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Abissal",
+
+        "descricaoRaca":"Os Abissais eram uma tribo antiga e adoravam um poderoso deus das águas. Um dia, o deus deles lhes deu a capacidade de viver na terra e na água. Foi por causa desse dom especial que os integrantes dessa tribo puderam encontrar o Perfect World. Porém, eles se perderam em algum lugar no Mar da Realidade. Após vagar pelos mares durante anos, essa tribo se estabeleceu na Ilha da Barreira. Lá, eles adotaram seu novo nome, Abissais.",
+
+        "classe":"Mercenário",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Grandes estudiosos da arte da guerra, os Mercenários se orgulham de dominar as técnicas da luta com adagas e do combate corpo na corpo. Muitos também são mestres em enganar seus oponentes com truques de camuflagem e se tornam mortíferos ao utilizarem suas habilidades contra os inimigos. Eles priorizam sua velocidade e agilidade nos confrontos, por isso preferem trajar armaduras leves que não atrapalhem sua mobilidade. Uma de suas características mais impressionantes é a aptidão em encontrar os pontos fracos do adversário. Este dom natural possibilita um aumento considerável nos seus acertos críticos. Eles manipulam também os elementos da natureza com perfeição e conhecem os ingredientes necessários para criar poderosos venenos. Os mercenários sempre utilizam estas e outras artimanhas para obter vantagens durante os embates, como por exemplo, roubar a energia do inimigo para recuperar sua própria vida conforme atacam.",
+
+        "vantagens":"Ótima esquiva; Investidas rápidas; Camuflagem favorece a classe.",
+
+        "desvantagens":"Ataques de curto alcance; Não possuem muitas habilidades de área.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_abissal_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mercenario.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Abissal",
+
+        "descricaoRaca":"Os Abissais eram uma tribo antiga e adoravam um poderoso deus das águas. Um dia, o deus deles lhes deu a capacidade de viver na terra e na água. Foi por causa desse dom especial que os integrantes dessa tribo puderam encontrar o Perfect World. Porém, eles se perderam em algum lugar no Mar da Realidade. Após vagar pelos mares durante anos, essa tribo se estabeleceu na Ilha da Barreira. Lá, eles adotaram seu novo nome, Abissais.",
+
+        "classe":"Espiritualista",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Estes Abissais são abençoados por manterem uma forte conexão com as energias existentes no mundo. Eles utilizam suas habilidades especiais tanto para aumentar o poder de luta de seus companheiros quanto para minar as defesas adversárias a ponto deles não conseguirem recuperar os próprios pontos de vida. Eles também carregam uma arma bastante peculiar e pouco conhecida pelos habitantes da superfície: a Esfera da Alma. Este misterioso globo metálico, que flutua na mão dos Espiritualistas, canaliza seu poder através da essência emanada pelo mundo espiritual. Tamanho é o controle dos Espiritualistas sobre este universo invisível que eles são capazes de revidar o ataque sofrido com o poder de seu espírito. Seja paralisando o oponente ou devolvendo a habilidade desferida, estes seres conseguem muitas vantagens por manipular as ações do adversário. Além de suas capacidades de combate, esta classe representa um papel fundamental dentro do grupo, oferecendo suporte aos companheiros e lhes proporcionando diferentes bonificações.",
+
+        "vantagens":"Bons ataques à longa distância; Lançam suas magias com rapidez; Habilidades de área, nos níveis mais altos, oferecem efeitos adicionais.",
+
+        "desvantagens":"Pouco HP; Alto consumo de MP; Baixa defesa física.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_abissal_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_espiritualista.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Guardião",
+
+        "descricaoRaca":"O número de almas no mundo mortal cresceu rapidamente devido aos anos de guerra. As divindades então enviaram emissários para avaliar as almas. As almas bondosas tiveram permissão para descansar em paz, enquanto as almas malignas tiveram que passar pela purificação. Após 500 anos, o número de almas malignas estava aumentando. Para combatê-las, as divindades despertaram as almas bondosas, concedendo-lhes poderes mágicos e abrindo seus terceiros olhos. Essas almas ficaram conhecidas como Guardiões.",
+
+        "classe":"Arcano",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Arcanos representam a linha de frente do exército dos Guardiões. Dotados de uma perícia admirável quando portam espadas, estes campeões de Pan Gu aumentaram de maneira significativa suas habilidades de luta devido à necessidade constante de proteger seus santuários subterrâneos. Estes combatentes são disciplinados e taticamente brilhantes, pois dedicaram a vida inteira ao combate e às estratégias de guerra. Eles utilizam o terreno e os elementos da natureza para se sobressaírem sobre a horda adversária. Arcanos são bastante versáteis em alguns caminhos mágicos ofensivos. Podem encantar suas armas para desferir dano elemental e aumentar sua base de ataque, ou brandir sua longa espada para liberar uma devastadora onda de choque capaz de ferir os inimigos à longa distância. Arcanos são astutos o suficiente para adaptar-se aos diferentes tipos de situação na qual se encontram. Eles podem mudar sua pose de combate para realizar movimentos especiais exclusivos para cada uma delas.",
+
+        "vantagens":"Alto HP; Alta defesa física; Variedade de habilidades de ataque; Manipula o nível de ataque e defesa de aliados e inimigos.",
+
+        "desvantagens":"Baixa defesa mágica; Poucos buffs para auxiliar os companheiros.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_guardiao_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_arcano.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Guardião",
+
+        "descricaoRaca":"O número de almas no mundo mortal cresceu rapidamente devido aos anos de guerra. As divindades então enviaram emissários para avaliar as almas. As almas bondosas tiveram permissão para descansar em paz, enquanto as almas malignas tiveram que passar pela purificação. Após 500 anos, o número de almas malignas estava aumentando. Para combatê-las, as divindades despertaram as almas bondosas, concedendo-lhes poderes mágicos e abrindo seus terceiros olhos. Essas almas ficaram conhecidas como Guardiões.",
+
+        "classe":"Místico",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Místicos são devotos da terra e da natureza. Canalizam o fluxo de vida que vaga entre a flora e sabem como manipular esta energia para favorecer seus companheiros na guerra contra as forças malignas de Pan Gu. Seu papel nos confrontos é de oferecer suporte aos integrantes do grupo na qual está inserido. Eles realizam ataques mágicos à distância, podem restaurar a vida dos amigos e possuem a habilidade de desfazer os encantamentos lançados pelos adversários. Sua habilidade mais surpreendente, contudo, é a capacidade de invocar temporariamente criaturas elementais e de outros planos para ajudá-lo no combate! O contato constante com a natureza desenvolveu sua capacidade de entender as criaturas ao ponto de se comunicar com elas. O entendimento entre ambas as partes facilitou a formação de uma aliança entre os Guardiões e os seres elementais, que se tornaram seus aliados na batalha pela salvação de Pan Gu.",
+
+        "vantagens":"Alta defesa mágica; Invocam monstros específicos para cada tipo de confronto; Rápidos quando utilizam habilidades de cura.",
+
+        "desvantagens":"Alto consumo de MP; Baixo HP; Baixa defesa a ataques físicos.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_guardiao_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_mistico.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Sombrio",
+
+        "descricaoRaca":"Os Ceifadores costumavam ser filhos da Criança Divina, mas quando o seu criador foi derrubado, eles receberam vidas mortais para durarem mais do que ele. A rebelião dos prisioneiros malignos fez com que o Reino de Garrow ficasse em desordem. Vendo isso, Cangyan, a Criança Divina, transformou-se em um dragão dourado e sacrificou sua vida para destruir os prisioneiros. E com suas últimas forças, a Criança Divina libertou os Ceifadores de suas obrigações e os enviou para o Perfect World. Seus descendentes, os Sombrios, vieram ao Perfect World em um navio voador e se estabeleceram em uma ilha inexplorada do nordeste. Ampliando seu navio rumo à cidade de Névoa Sombria, eles protegeram o Perfect World de dentro das sombrase apenas recentemente vieram à luz para combater abertamente os Espectros e Pesadelos.",
+
+        "classe":"Retalhador",
+
+        "tipoDeAtaque":"Físico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Retalhadores são uma classe voltada para o combate corpo a corpo, que usa Sabres como armas e Armaduras Leves para proteção. A classe conta com habilidades muito rápidas que podem ser combinadas em sequência, formando uma espécie de “dança de combos”, aumentando ainda mais seu dano. Outro dos poderes especiais dos Retalhadores é a capacidade de copiar algumas habilidades de outras classes quando elas estiverem próximas.",
+
+        "vantagens":"Alto dano físico individual e em grupo; Grande variedade de habilidades de ataque.",
+
+        "desvantagens":"Poucos buffs para auxiliar os companheiros; Personagem que exige um nível maior de habilidade para ser controlado.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_sombrio_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_retalhador.png"},
+    
+        "nat":"BR"
+    },
+
+    {
+        "pictureHome":{"large":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","medium":"https://perfectworld.uol.com.br/img/personagens/characters_home.png","thumbnail":"https://perfectworld.uol.com.br/img/personagens/characters_home.png"},
+        
+        "raca":"Sombrio",
+
+        "descricaoRaca":"Os Ceifadores costumavam ser filhos da Criança Divina, mas quando o seu criador foi derrubado, eles receberam vidas mortais para durarem mais do que ele. A rebelião dos prisioneiros malignos fez com que o Reino de Garrow ficasse em desordem. Vendo isso, Cangyan, a Criança Divina, transformou-se em um dragão dourado e sacrificou sua vida para destruir os prisioneiros. E com suas últimas forças, a Criança Divina libertou os Ceifadores de suas obrigações e os enviou para o Perfect World. Seus descendentes, os Sombrios, vieram ao Perfect World em um navio voador e se estabeleceram em uma ilha inexplorada do nordeste. Ampliando seu navio rumo à cidade de Névoa Sombria, eles protegeram o Perfect World de dentro das sombrase apenas recentemente vieram à luz para combater abertamente os Espectros e Pesadelos.",
+
+        "classe":"Tormentador",
+
+        "tipoDeAtaque":"Mágico",
+
+        "sexo":"Masculino e Feminino",
+
+        "descricaoClasse":"Os Tormentadores são uma classe com ataques mágicos à distância, que usa Foices como armas e Armaduras Arcanas para proteção. As habilidades desta classe são focadas em ataques mágicos com grandes áreas de efeito, concentrados em Gelo e Trovão, que representam os elementos Água e Metal. Esta classe conta com uma mecânica única que permite conjurar suas habilidades e se movimentar ao mesmo tempo, sem que seja preciso ficar parado no mesmo lugar, como acontece com as outras classes arcanas. Além disso, eles podem criar um clone de si mesmos para lutar ao seu lado, auxiliando-os em combate.",
+
+        "vantagens":"Pode se movimentar conjurando magias; Alto dano em combate em grupo; Alto nível de flexibilidade em batalhas.",
+
+        "desvantagens":"Baixa defesa física; Poucos buffs para auxiliar os companheiros.",
+
+        "pictureRaca":{"large":"https://perfectworld.uol.com.br/img/o-jogo/racas/racas_sombrio_ilustracao.png"},
+
+        "pictureClass":{"large":"https://perfectworld.uol.com.br/img/o-jogo/classes/classe_tormentador.png"},
+    
+        "nat":"BR"
+    },
+
+       
+    ],
+    
+    
+    "info":{"seed":"c47d1fdf9d17f6d9","results":14,"page":1,"version":"1.3"}
+    
+    }
